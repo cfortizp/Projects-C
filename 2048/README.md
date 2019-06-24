@@ -3,4 +3,4 @@ This is a project made in C ++, which is an adaptation of a 2048 made in 2017. I
 You can choose the size of the game board between 3x3 and 9x9
 You can see captured images of the game
 
-![Start 2048](Images/2048(Start).jpg)
+![Start 2048](Images/2048(Start).JPG)
