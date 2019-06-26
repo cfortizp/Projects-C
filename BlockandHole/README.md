@@ -8,7 +8,7 @@ In the project the game board is read from the text file "escenario.txt". Among 
 
 To edit the scenario, consider the following
 
-  - The first two lines represent the rows and columns of the stage respectively
+  - The first two lines represent the rows and columns of the game board respectively
   - (i) represents the start box where the block started vertically
   - (-) represents the gaps where the block will fall
   - (*) represents the boxes where the block can be placed
