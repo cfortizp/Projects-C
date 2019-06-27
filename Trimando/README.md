@@ -13,4 +13,3 @@ You can see captured images of the program
 # Home
 ![Home Trimando](Images/Trimando(Inicio).JPG)
 
->>>>>>> f3a33dca9dc3733a341aa8d811bfaa3e2bd46203
