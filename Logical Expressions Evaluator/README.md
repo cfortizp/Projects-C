@@ -7,5 +7,5 @@ The Logical Expressions Evaluator takes an expression and generates tables of Bo
 You can see captured images of the program
 # Start
 ![Start LEE](Images/LEE(Start).JPG)
-# Game Board
+# Application
 ![Table LEE](Images/LEE(Table).JPG)
