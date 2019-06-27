@@ -1,11 +1,10 @@
-# Logical Expressions Evaluator
+# Lexicon and Syntactic Analyzer
 
-This is a project made in C ++, which is a Logical Expressions Evaluator made in 2016. It does not have a graphical interface, executed in a console.
+This is a project made in C ++, which is a Lexicon and Syntactic Analyzer of [T language](https://sites.google.com/unal.edu.co/lenguaje-t) made in 2016. It does not have a graphical interface, executed in a console.
 
-The Logical Expressions Evaluator takes an expression and generates tables of Boolean values, this program solves grammatical problems of the expression (Note: The expression must be written without spaces)
+The Lexicon and Syntactic Analyzer read the file evaluate.txt and analyze lexically and syntactically the elements that are in the file, taking into account the rules established by the language. To make these analyzes use Automatas (Lexico Analysis) and Grammatics (Syntactic Analysis)
 
 You can see captured images of the program
-# Start
-![Start LEE](Images/LEE(Start).JPG)
-# Application
-![Table LEE](Images/LEE(Table).JPG)
+# View
+![LSA](Images/LSA.JPG)
+
